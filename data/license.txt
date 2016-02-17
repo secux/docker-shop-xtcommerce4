@@ -1,0 +1,44 @@
+company: 
+created: 2015-11-21 03:53:53
+key: b7b77a4b9b406303febcaed6d2a864ce
+license: xt:Commerce Start!
+mailaddress: decemvre@gmail.com
+maxstores: 1
+maxversion: 4200
+name: Mircea-Silviu Itu
+project: xt:Commerce 4
+updatesuntil: 2015-11-21 03:53:54
+
+------ LICENSE FILE DATA -------
+96SW713WELFna2uEIf2TD+SYBkBMNRYP
+zz7r7qrYWhKvJ7uqlSr4cUQ2BhIynpXw
++nZ8E+/IAH465s0zd5V3j2aE2BUJQiOB
+yYCrHnEW27DadbAhBSF9YVLhOBNtOmQw
+ZWpz8dsxkwRz+AJ9iAtaHT9TjgFi1ibN
+BdgOtmW5pHGFVzGyRsOtUCHGyFylgvs7
+zk1W86fI+HtlKLL2QhIuv03mdug797vx
+gYh5zogPUIofsHKluavFG+4Fvfsfxcc/
+apY1/gdBcxfS/nAeq1cLYDlF8V7vHeIO
+SjKTTo7DAOpGn7gr89qiNUs6JKFlMJt/
+0KjRsqjDEV4n05Bp4rPvrgDd61L4LEc1
+ubp5JpOaJXh3tNCIazb8z310a50C/fk2
+F3lOnD6+Ksy4rGy+aEg4kHI0ZqMjRrd4
+gOKO+db+CsaF7cOil5vxopn0lmj4lvLO
+dUYwkh35965YpJnJeqa5FLAv0Jslj4wt
+V6kdEGLOs8iab+/GRhoM/MXt8A2j5QOB
+ZosffKhgkcjCOPTH2C5BXC+KCtVBr7V4
+aOU2Bg/f56Ky7yPDCvcpRYfq0V8aXkPF
+QS9k9kk1zLsAIzpU3haWPiemavn+AX5A
+aWFwmxqg2ogBD1oCiqVZWbuTbNYaT21F
+pTZgVWdx1UKhN4fHwtvcvb4bf/u+Ofeo
+KKvpdDzXk4OMiq3zqN+3uLQbY4esoJrr
+sIVsWk6QvGDRfpmEGl8E90mKxN4WdT/L
+yPqZsycIi2ixbOaqmTmUKzp81CfWEkJ7
+s2HKkNEdh35tZQ+zo+k4wxnUx+zBtCOQ
+AJbXsV8VLG6PEk59FDceTjia1aiYNBWI
+7esZDnil+oaAbvJUJRDI+miqWGMWgazR
+w047689BtzfgPgbaaBdcsNm5nH1hTwIZ
+Z2umzEwlBX17pkapEE/wd/lJyCloQAvM
+0bIhE2GcnpWawVdjm+pBeamXVOl74nNl
+nq==
+--------------------------------

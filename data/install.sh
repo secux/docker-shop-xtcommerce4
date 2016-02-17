@@ -3,8 +3,10 @@
 echo "Running install.sh for $1"
 
 echo "Installing shop"
-
 # install shop here
+unzip /data/versions/$1.zip -d /www/
+echo "Installing XtCommerce license"
+mv -f /data/license.txt /www/lic/license.txt
 
 echo "Installing composer packages"
 cd /www && composer.phar self-update && composer.phar config -g github-oauth.github.com 2245dfb67d208f3503081b38814bdd54e04368f7 && composer.phar install --ignore-platform-reqs
